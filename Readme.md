@@ -314,7 +314,7 @@ year={2021}
 
 - Download datasets and put them into `testing_dataset` directory.  
 
-  - [OTB2015]((http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html))  
+  - [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)  
 
   -  [LaSOT](http://vision.cs.stonybrook.edu/~lasot/)  
   -  [UAV123](https://cemse.kaust.edu.sa/ivul/uav123)
