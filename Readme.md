@@ -531,7 +531,7 @@ You can modify these files to set the paths to datasets, results paths etc.
 
 - Download datasets and put them into testing_dataset directory.  
 
-  - [OTB2015]((http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html))  
+  - [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
 
   -  [LaSOT](http://vision.cs.stonybrook.edu/~lasot/)  
   -  [UAV123](https://cemse.kaust.edu.sa/ivul/uav123)
@@ -730,7 +730,7 @@ You can modify these files to set the paths to datasets, results paths etc.
 
 - Download datasets and put them into testing_dataset directory.  
 
-  - [OTB2015]((http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html))  
+  - [OTB-2015](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)  
 
   -  [LaSOT](http://vision.cs.stonybrook.edu/~lasot/)  
   -  [UAV123](https://cemse.kaust.edu.sa/ivul/uav123)
