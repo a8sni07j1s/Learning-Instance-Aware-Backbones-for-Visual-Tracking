@@ -397,7 +397,7 @@ year={2021}
 
 - Prepare pretrained backbones
 
-  We have placed the pretrained backbones into the pysot-master/pretrained_models folder.
+  Put the pretrained backbones (model/backbone/ResNet50/IB_model/ResNet_Siam/resnet50_siam_IB.model;model/backbone/ResNet50/TB_model/ResNet_Siam/resnet50_siam_TB.model) into `pretrained_models` directory.
 
 - Training
 
